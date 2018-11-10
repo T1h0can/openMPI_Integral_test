@@ -1,0 +1,1 @@
+/usr/local/Cellar/open-mpi/3.1.2/bin/mpic++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/MPI_newIntegral.dir/main.cpp.o  -o MPI_newIntegral 

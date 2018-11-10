@@ -1,0 +1,3 @@
+/Users/t1h0can/CLionProjects/MPI_newIntegral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/t1h0can/CLionProjects/MPI_newIntegral/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/t1h0can/CLionProjects/MPI_newIntegral/cmake-build-debug/CMakeFiles/MPI_newIntegral.dir

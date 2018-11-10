@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/t1h0can/CLionProjects/MPI_Integral_wa1/main.cpp
+iostream
+-
+unistd.h
+-
+cmath
+-
+mpi.h
+-
+
